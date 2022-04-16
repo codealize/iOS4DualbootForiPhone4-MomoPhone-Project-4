@@ -1,21 +1,19 @@
 # 4tify - v0.1_beta
-iOS 4 Dualbooting Made Simple By @zzanehip
+iOS 4 Dualbooting Made Simple By @zzanehip and README.md edited by @codealize
 
-## What and Why?
+## About MomoPhone Project
 
-* In my opinion, iOS 4 has always been the illusive iOS. Methods to install it are either dificult to find, or dificult to use.
-* Which is ironic, I honestly belive iOS 4 is the gold standard of iOS.
-* The goal in this project is to make running iOS 4 less of challenge, and more of a convient reality. 
-* Why dualbooting? Simple, keep your most up to date iOS, but still be able to use a cherished iOS.
-* This is still very much an early phase project, use this at *your own risk.* If you have any issues, or find any bugs please report them. I hope to simplify the process even further as well.
-* I hope this brings a little you a little joy while you're cooped up inside ;)  
+4tify v1.0_beta is created by @zzanehip, the MomoPhone name comes from me, @codealize, it's just for a funny title for the project. This is an archive by me so I can access it easier and when I need it is right here in my profile. Anyways, I hope you enjoy the project that @zzanehip made!!!
+Don't forget.
+4tify turns your iPhone 4 into a... MOMOPHONE PRO! (jk lol)
+
 
 ## What's Supported
 * iPhone 4 (3,1)
 	* iOS 4.3
 * Tested on Mac OS 10.13-10.15
 
-This is by all means extremely limited right now. It's my goal to work on getting most what's soon to come done fairly quickly. This is still early stages, so stay tuned.
+This is by all means extremely limited right now. It's @zzanehip's goal to work on getting most what's soon to come done fairly quickly. This is still early stages, so stay tuned.
 
 ## Soon to Come (Probably in this Order)
 * iPhone 4 (3,1)
@@ -97,3 +95,4 @@ Now, we'll partition our device, install iOS 4, and patch it. Once this is done,
 * @Billy-Ellis for runasroot.
 * @Tommymossss for entertaining me while I made this.
  
+ This is archived by @codealize for purposes of learning, and dualbooting iPhones.
