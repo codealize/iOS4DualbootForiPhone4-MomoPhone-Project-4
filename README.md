@@ -15,7 +15,7 @@ Don't forget.
 
 This is by all means extremely limited right now. It's @zzanehip's goal to work on getting most what's soon to come done fairly quickly. This is still early stages, so stay tuned.
 
-Every other text below you see is now @zzanehip's writing, except for line 16 and 4-8.
+Every other text below you see is now @zzanehip's writing, except for line 16 and 4-8 (line 100 is ME too!)
 
 ## Soon to Come (Probably in this Order)
 * iPhone 4 (3,1)
